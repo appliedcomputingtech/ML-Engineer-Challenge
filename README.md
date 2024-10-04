@@ -35,7 +35,7 @@ python ./utils/download_tiny_imagenet.py
 
 ## Part 2: Automated Hyperparameter Tuning
 
-**Objective**: Conduct automated hyperparameter tuning to identify the optimal hyperparameters for a small CNN trained on the [tiny-ImageNet dataset](https://www.kaggle.com/datasets/akash2sharma/tiny-imagenet) training dataset. (Refer to instructions in Part 1 for downloading the data)
+**Objective**: Conduct automated hyperparameter tuning to identify the optimal hyperparameters for a small CNN trained on the [CIFAR100](https://pytorch.org/vision/stable/generated/torchvision.datasets.CIFAR100.html) training dataset. (Refer to instructions in Part 1 for downloading the data)
 
 ### Instructions 📃
 
